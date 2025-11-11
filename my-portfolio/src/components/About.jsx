@@ -14,13 +14,31 @@ const About = () => {
           />
           <div className="flex-1">
             <p className="text-lg mb-6">
-              I'm a dedicated and enthusiastic software engineering undergraduate at SLIIT with a strong interest in building creative and meaningful digital experiences. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills as a developer.
+              I'm a dedicated and enthusiastic software engineering
+              undergraduate at SLIIT, currently awaiting my final semester
+              results. I have a strong interest in building creative and
+              meaningful digital experiences, enjoy learning new technologies,
+              solving real-world problems, and continuously improving my skills
+              as a developer.
             </p>
             <p className="text-lg mb-6">
-              I focus on writing clean code, creating user-friendly designs, and building smart solutions. I work comfortably with technologies like <strong>React</strong>, <strong>Node.js</strong>, <strong>Express</strong>, <strong>MongoDB</strong>, and <strong>Tailwind CSS</strong>, and I’m familiar with tools such as <strong>Git</strong>, <strong>VS Code</strong>, <strong>Postman</strong>, and <strong>Figma</strong>.
+              I focus on writing clean code, creating user-friendly designs, and
+              building smart solutions. I work comfortably with technologies
+              like <strong>React</strong>, <strong>Node.js</strong>,{" "}
+              <strong>Express</strong>, <strong>MongoDB</strong>,{" "}
+              <strong>C#</strong>, and <strong>Tailwind CSS</strong>. I also
+              have experience with <strong>Python</strong>,{" "}
+              <strong>Flask</strong>, <strong>MySQL</strong>,{" "}
+              <strong>Firebase</strong>, <strong>Docker</strong>, and{" "}
+              <strong>CI/CD</strong> pipelines. Additionally, I’m familiar with
+              tools such as <strong>Git</strong>, <strong>GitHub</strong>,{" "}
+              <strong>VS Code</strong>, <strong>Postman</strong>,{" "}
+              <strong>Figma</strong>, and <strong>Jira</strong>.
             </p>
             <p className="text-lg mb-6">
-              I'm always looking to expand my skill set and stay updated with modern development practices. My goal is to grow as a developer and contribute to impactful digital solutions.
+              I'm always looking to expand my skill set and stay updated with
+              modern development practices. My goal is to grow as a developer
+              and contribute to impactful digital solutions.
             </p>
           </div>
         </div>
