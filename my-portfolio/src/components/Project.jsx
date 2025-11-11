@@ -9,7 +9,7 @@ import Image7 from "../assets/project7.webp";
 import Image8 from "../assets/project8.webp";
 import Image9 from "../assets/project9.webp";
 import Image10 from "../assets/project10.jpg";
-import Image11 from "../assets/project11.webp";
+import Image11 from "../assets/Project11.webp";
 import Image12 from "../assets/project12.webp";
 
 const projects = [
